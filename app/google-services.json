@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030281920315",
+    "project_id": "gutftgo",
+    "storage_bucket": "gutftgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030281920315:android:ee4e86b805c374ff36411e",
+        "android_client_info": {
+          "package_name": "com.example.guftugu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030281920315-s0dtn6i2s3jpf64lgbq2bva9qm81qbdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guftugu",
+            "certificate_hash": "314154f98d3f19bf50f7ff52c62148be765b9868"
+          }
+        },
+        {
+          "client_id": "1030281920315-gjlo9j1rarprl1kj0nej7poajjmgtni5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGwFPJuL3YJlpAUo0DPRAJ3aqrvpIJJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030281920315-gjlo9j1rarprl1kj0nej7poajjmgtni5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
